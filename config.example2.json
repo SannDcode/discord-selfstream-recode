@@ -1,0 +1,11 @@
+{
+  "sources": [
+    "http://yourstream.com/moviessss.mp4",
+    "assets/movie.mp4",
+    "assets/movie2.mp4",
+    "//comment": "etc...."
+  ],
+  "shuffle": false,
+  "quality": "1080p",
+  "//comment": "480p,720p,1080p"
+}
